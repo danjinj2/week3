@@ -1,0 +1,8 @@
+{
+    "name": "week3",
+    "author": "Danjin <danjinj2@illinois.edu>",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "license": "MIT"
+}
